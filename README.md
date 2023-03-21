@@ -1,2 +1,2 @@
-# quantum
-Quantum Information Science Adventures
+# quantumania
+Quantum Information Science and Engineering Adventures
