@@ -1,8 +1,8 @@
 version 1.0
-#developer: Jullyano Lino
 #date: March 13, 2022
 #platform: Quantum Inspire by QuTech (https://www.quantum-inspire.com)
 #backend: QX-34-L
+#code snippet
 
 #Grover algorithm to search databases
 qubits 3
