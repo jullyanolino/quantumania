@@ -1,0 +1,30 @@
+version 1.0
+#date: March 21, 2022
+#platform: Quantum Inspire by QuTech (https://www.quantum-inspire.com)
+#backend: QX-34-L
+
+#This algorithm uses an Oracle
+qubits 2
+
+#Initialize the qubits in |+> or |->
+.initialize
+prep_z q[0:1]
+X q[1]
+{H q[0] | H q[1]}
+
+#.oracle_fc1
+#I q[0:1]
+
+#.oracle_fc2
+#X q[1]
+
+#.oracle_fb3
+#CNOT q[0], q[1]
+
+.oracle_fb4
+CNOT q[0], q[1]
+X q[1]
+
+.measurement
+H q[0]
+measure q[0]
