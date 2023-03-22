@@ -1,0 +1,37 @@
+version 1.0
+#date: March 22, 2022
+#platform: Quantum Inspire by QuTech (https://www.quantum-inspire.com)
+#backend: QX-34-L
+
+qubits 5
+
+.Encoding
+cnot q[0], q[1]
+cnot q[0], q[2]
+
+.Introduce_Error
+x q[1]
+
+.Error_Detection
+cnot q[0], q[3]
+cnot q[1], q[3]
+cnot q[0], q[4]
+cnot q[2], q[4]
+measure q[3,4]
+
+.Error_Correction
+#Both b[3]=b[4]=0
+#Do nothing 
+#b[3]=b[4]=1
+c-x b[3,4], q[0]
+#b[3]=1, b[4]=0
+not b[4]
+c-x b[3,4], q[1]
+not b[4]
+#b[3]=0, b[4=1]
+not b[3]
+c-x b[3,4], q[2]
+not b[3]
+
+.Measurement
+measure q[0:2]
