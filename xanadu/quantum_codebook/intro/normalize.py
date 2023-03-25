@@ -27,8 +27,6 @@ def normalize_state(alpha, beta):
     ##################
 
     # CREATE A VECTOR [a', b'] BASED ON alpha AND beta SUCH THAT |a'|^2 + |b'|^2 = 1
-    #alpha_n = alpha / (np.sqrt(np.power(alpha,2) + np.power(beta,2)))
-    #beta_n = beta / (np.sqrt(np.power(alpha,2) + np.power(beta,2)))
     v = np.array([alpha, beta])
     v_n = np.linalg.norm(v)
     
