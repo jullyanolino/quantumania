@@ -1,6 +1,5 @@
 """
-Codercise I.1.1. Suppose we are given an unnormalized quantum state:
-$0$
+Codercise I.1.1. Suppose we are given an unnormalized quantum state, write a function that given and normalizes this state.
 """
 
 
