@@ -1,3 +1,3 @@
 # Xanadu Quantum Codebook
 
-Codercises [https://codebook.xanadu.ai]
+Code solutions to codercises at https://codebook.xanadu.ai
