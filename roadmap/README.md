@@ -28,10 +28,10 @@
 ##  Quantum nonlocality 
 
 ## Bell's Theorem and States
-		https://www.youtube.com/watch?v=3mwQRbi2skc&list=PLUFcRbu9t-v4peHdmDy4rtG3EnbZNS86R&index=4
+		(video)[https://www.youtube.com/watch?v=3mwQRbi2skc&list=PLUFcRbu9t-v4peHdmDy4rtG3EnbZNS86R&index=4]
 
 ## Quantum Oracle
-	https://benjaminwhiteside.com/2022/08/07/quantum-oracles/
+	(Quantum Oracles)[https://benjaminwhiteside.com/2022/08/07/quantum-oracles/]
 	How to build an oracle from a matrix?
 
 ## Quantum Fourier Series
@@ -82,10 +82,10 @@
 
 
 ## Quantum Protocols
--Quantum Cryptography
-	-BB84 Protocol
-	-B92 Protocol
-	-E91 Protocol
+	-Quantum Cryptography
+		-BB84 Protocol
+		-B92 Protocol
+		-E91 Protocol
 
 ## Quantum Information Theory
 
@@ -96,8 +96,8 @@
 ## Quantum pseudo-telepathy
 
 ## Quantum Hardware Technology 
--Ion Traps, Cavity QED, NMR, photonics quantum computers and solid-state systems
--Noisy Intermediate-Scale Quantum (NISQ)
+	-Ion Traps, Cavity QED, NMR, photonics quantum computers and solid-state systems
+	-Noisy Intermediate-Scale Quantum (NISQ)
 
 ## Quantum Software Engineering
 
@@ -114,7 +114,7 @@
 ## Quantum Machine Learning
 	-TensorFlow Quantum
 
-[Quantum (Software) Engineering Requirements]
+## Quantum (Software) Engineering Requirements
 	-Python, R, C, C++
 
 	-Quantum Software Development Kits (Qiskit (IBM), Pennylane (Xanadu), Cirq (Google), TensorFlow (Google))
@@ -123,7 +123,7 @@
 	
 	
 	
-[Quantum Job Requirements]
+## Quantum Job Requirements
 	-Computação Quântica
 		-Conhecimento dos algoritmos fundamentais da computação quântica. 
 			-Grover, 
