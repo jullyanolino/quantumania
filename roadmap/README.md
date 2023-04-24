@@ -1,26 +1,26 @@
 # Learning Roadmap
 
 ## Math skills
-	Linear Algebra
-	Complex Numbers
-	Probability Theory 
+	-Linear Algebra
+	-Complex Numbers
+	-Probability Theory 
 	
-	Density Matrix
+	-Density Matrix
 		https://en.wikipedia.org/wiki/Density_matrix
 
-	Quantum Bloch Sphere
+	-Quantum Bloch Sphere
 		https://www.youtube.com/watch?v=ZZVQ9kaGzt0&lc=UgywLE4CO374aBqyW1Z4AaABAg.9n_b2j2Lfgo9nawLAqtuEq
 
-	Quantum pure and mixed state
+	-Quantum pure and mixed state
 
-	Quantum measurement and POVM
+	-Quantum measurement and POVM
 
-	Quantum Partial Trace Operation
+	-Quantum Partial Trace Operation
 		https://www.youtube.com/watch?v=zIrpDPyebmk&list=PLUFcRbu9t-v4peHdmDy4rtG3EnbZNS86R&index=14
 
-	Quantum Global and Relative Phase
+	-Quantum Global and Relative Phase
 
-	Quantum phase [kickback / estimation]
+	-Quantum phase [kickback / estimation]
 		https://www.youtube.com/watch?v=IcShoZmj6ik
 		https://towardsdatascience.com/quantum-phase-kickback-bb83d976a448
 		https://qiskit.org/textbook/ch-gates/phase-kickback.html
@@ -82,7 +82,6 @@
 
 
 ## Quantum Protocols
-
 -Quantum Cryptography
 	-BB84 Protocol
 	-B92 Protocol
@@ -97,8 +96,8 @@
 ## Quantum pseudo-telepathy
 
 ## Quantum Hardware Technology 
-	-Ion Traps, Cavity QED, NMR, photonics quantum computers and solid-state systems
-	-Noisy Intermediate-Scale Quantum (NISQ)
+-Ion Traps, Cavity QED, NMR, photonics quantum computers and solid-state systems
+-Noisy Intermediate-Scale Quantum (NISQ)
 
 ## Quantum Software Engineering
 
