@@ -36,7 +36,7 @@
 
 ## Quantum Fourier Series
 
-## Quantum algorithm (
+## Quantum algorithm
 	-Paradigms:
 		-Quantum Fourier Transform (QFT);
 		-The Grover Operator (GO); 
@@ -79,7 +79,7 @@
 		-Quantum State Preparation;
 		-Quantum Tomography;
 	
-)
+
 
 ## Quantum Protocols
 
