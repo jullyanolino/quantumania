@@ -1,4 +1,6 @@
-Math skills
+# Learning Roadmap
+
+## Math skills
 	Linear Algebra
 	Complex Numbers
 	Probability Theory 
@@ -23,98 +25,94 @@ Math skills
 		https://towardsdatascience.com/quantum-phase-kickback-bb83d976a448
 		https://qiskit.org/textbook/ch-gates/phase-kickback.html
 
-Quantum nonlocality 
+##  Quantum nonlocality 
 
-Bell's Theorem and States
+## Bell's Theorem and States
 		https://www.youtube.com/watch?v=3mwQRbi2skc&list=PLUFcRbu9t-v4peHdmDy4rtG3EnbZNS86R&index=4
 
-Quantum Oracle
+## Quantum Oracle
 	https://benjaminwhiteside.com/2022/08/07/quantum-oracles/
 	How to build an oracle from a matrix?
 
-Quantum Fourier Series
+## Quantum Fourier Series
 
-Quantum algorithm (
-	Paradigms:
-		Quantum Fourier Transform (QFT);
-		The Grover Operator (GO); 
-		The Harrow-Hassidim-Lloyd (HHL) method for linear systems;
-		Variational quantum eigenvalue solver (VQE);
-		Direct Hamiltonian simulation (SIM)
-	List:
-		Swap-test;
-		Hadamard-test;
-		Simon;
-		Deutsch;
+## Quantum algorithm (
+	-Paradigms:
+		-Quantum Fourier Transform (QFT);
+		-The Grover Operator (GO); 
+		-The Harrow-Hassidim-Lloyd (HHL) method for linear systems;
+		-Variational quantum eigenvalue solver (VQE);
+		-Direct Hamiltonian simulation (SIM)
+	-List:
+		-Swap-test;
+		-Hadamard-test;
+		-Simon;
+		-Deutsch;
 			https://www.youtube.com/watch?v=Sb5WRs8XUuU
-		Deutsch-Jozsa;
+		-Deutsch-Jozsa;
 			https://www.youtube.com/watch?v=g-O9aRzGeHs&list=PLUFcRbu9t-v4peHdmDy4rtG3EnbZNS86R&index=10
 			https://stem.mitre.org/quantum/quantum-algorithms/deutsch-jozsa-algorithm.html
-		Bernstein-Vazirani;
-		Shor;
-		Grover;
-		Teleportation;
+		-Bernstein-Vazirani;
+		-Shor;
+		-Grover;
+		-Teleportation;
 			https://www.youtube.com/watch?v=JWNDlSWDUU0&list=PLUFcRbu9t-v4peHdmDy4rtG3EnbZNS86R&index=9
-		Superdensing coding;
-		QPE-Quantum Phase Estimation;
-		QAOA-Quantum Approximate Optimization Algorithm;
-		VQE-Variational quantum eigensolver; 
-		QFE-Quantum Fourier Estimation; 
-		QAA-Quantum Amplitude Amplification;
-		Quantum Maximum Flow Analysis
-		Quantum Minimal Spanning Tree
-		
-		Linear Systems
-		Matrix Elements of Group Representations
-		Quantum Verification of Matrix Products
-		Group Isomorphism
-		Quantum Persistent Homology
-		Quantum Random Walks
-		Quantum Principal Component Analysis
-		Quantum Support Vector Machine
-		Quantum Simulation of the Schrödinger Equation
-		Ground State of the Transverse Ising Model
-		Quantum Partition Function;
-		Quantum State Preparation;
-		Quantum Tomography;
+		-Superdensing coding;
+		-QPE-Quantum Phase Estimation;
+		-QAOA-Quantum Approximate Optimization Algorithm;
+		-VQE-Variational quantum eigensolver; 
+		-QFE-Quantum Fourier Estimation; 
+		-QAA-Quantum Amplitude Amplification;
+		-Quantum Maximum Flow Analysis
+		-Quantum Minimal Spanning Tree
+		-Linear Systems
+		-Matrix Elements of Group Representations
+		-Quantum Verification of Matrix Products
+		-Group Isomorphism
+		-Quantum Persistent Homology
+		-Quantum Random Walks
+		-Quantum Principal Component Analysis
+		-Quantum Support Vector Machine
+		-Quantum Simulation of the Schrödinger Equation
+		-Ground State of the Transverse Ising Model
+		-Quantum Partition Function;
+		-Quantum State Preparation;
+		-Quantum Tomography;
 	
 )
 
-Quantum Protocols
+## Quantum Protocols
 
-Quantum Cryptography
-	BB84 Protocol
-	B92 Protocol
-	E91 Protocol
+-Quantum Cryptography
+	-BB84 Protocol
+	-B92 Protocol
+	-E91 Protocol
 
-Quantum Information Theory
+## Quantum Information Theory
 
-Quantum Communication 
+## Quantum Communication 
 
-Quantum Networks
+## Quantum Networks
 
-Quantum pseudo-telepathy
+## Quantum pseudo-telepathy
 
-Quantum Hardware Technology 
-	Ion Traps, Cavity QED, NMR, photonics quantum computers and solid-state systems
+## Quantum Hardware Technology 
+	-Ion Traps, Cavity QED, NMR, photonics quantum computers and solid-state systems
+	-Noisy Intermediate-Scale Quantum (NISQ)
 
-Quantum Software Engineering
+## Quantum Software Engineering
 
+## Quantum Cybersecurity (malware; Network Attack)*
+## Quantum Entanglement in Time*
 
-Noisy Intermediate-Scale Quantum (NISQ)
-
-
-Quantum Cybersecurity (malware; Network Attack)*
-Quantum Entanglement in Time*
-
-Quantum Platforms
+## Quantum Platforms
 	IBM Qiskit
 	Microsoft Azure Q#
 	Xanadu PennyLane
 	Google Circ
 	Quantum Julia
 
-Quantum Machine Learning
+## Quantum Machine Learning
 	TensorFlow Quantum
 
 [Quantum (Software) Engineering Requirements]
