@@ -105,56 +105,54 @@
 ## Quantum Entanglement in Time*
 
 ## Quantum Platforms
-	IBM Qiskit
-	Microsoft Azure Q#
-	Xanadu PennyLane
-	Google Circ
-	Quantum Julia
+	-IBM Qiskit
+	-Microsoft Azure Q#
+	-Xanadu PennyLane
+	-Google Circ
+	-Quantum Julia
 
 ## Quantum Machine Learning
-	TensorFlow Quantum
+	-TensorFlow Quantum
 
 [Quantum (Software) Engineering Requirements]
-	Python, R, C, C++
+	-Python, R, C, C++
 
-	Quantum Software Development Kits (Qiskit (IBM), Pennylane (Xanadu), Cirq (Google), TensorFlow (Google))
+	-Quantum Software Development Kits (Qiskit (IBM), Pennylane (Xanadu), Cirq (Google), TensorFlow (Google))
 
-	Linear Algebra, Complex Numbers and Probability Theory.
+	-Linear Algebra, Complex Numbers and Probability Theory.
 	
 	
 	
 [Quantum Job Requirements]
-    Computação Quântica
-		Conhecimento dos algoritmos fundamentais da computação quântica. 
-			(
-				Grover, 
-				QPE-Quantum Phase Estimation, 	
-				QAOA-Quantum Approximate Optimization Algorithm, 
-				VQE-Variational quantum eigensolver, 
-				QFE-Quantum Fourier Estimation, 
-				QAA-Quantum Amplitude Amplification, 
-				Shor
-				...
-			)
-		Experiência com bibliotecas de programação de algoritmos quânticos (usando preferencialmente o Qskit, Q#, Xanadu)
+	-Computação Quântica
+		-Conhecimento dos algoritmos fundamentais da computação quântica. 
+			-Grover, 
+			-QPE-Quantum Phase Estimation, 	
+			-QAOA-Quantum Approximate Optimization Algorithm, 
+			-VQE-Variational quantum eigensolver, 
+			-QFE-Quantum Fourier Estimation, 
+			-QAA-Quantum Amplitude Amplification, 
+			-Shor
+
+		-Experiência com bibliotecas de programação de algoritmos quânticos (usando preferencialmente o Qskit, Q#, Xanadu)
     
-	IA
-		Modelos de IA
+	-IA
+		-Modelos de IA
 			[https://viso.ai/deep-learning/ml-ai-models/]
-		Otimização ou técnicas de Monte Carlo.
+		-Otimização ou técnicas de Monte Carlo.
 			[https://machinelearningmastery.com/tour-of-optimization-algorithms/]
 
-	Ciência de Dados
-		Ferramentas de ciência de dados (preparação, análise e visualização de dados)
+	-Ciência de Dados
+		-Ferramentas de ciência de dados (preparação, análise e visualização de dados)
 			[https://hdsr.mitpress.mit.edu/pub/kpn45eyx/release/3]
     
-	Programação Científica
-		Experiência em ambiente de programação científica (Python (obrigatório), R, Mathematica, MATLAB, ...)
+	-Scientific Programming
+		-Python, R, Mathematica, MATLAB, ...)
 		
-	Pesquisa Científica		
-		Habilidades analíticas, quantitativas, resolução de problemas e capacidade de pesquisa aplicada.
+	-Scientific research
+		-Habilidades analíticas, quantitativas, resolução de problemas e capacidade de pesquisa aplicada.
 			[https://in.indeed.com/career-advice/career-development/quantitative-skills]
        
-	English
+	-English
 	
 	
