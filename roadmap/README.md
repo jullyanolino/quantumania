@@ -81,8 +81,8 @@
 	
 
 
-## Quantum Protocols
-	-Quantum Cryptography
+## Quantum Cryptography
+	-Protocols
 		-BB84 Protocol
 		-B92 Protocol
 		-E91 Protocol
@@ -91,7 +91,10 @@
 
 ## Quantum Communication 
 
-## Quantum Networks
+## Quantum Internet
+	-Principles
+	-Protocols
+	-Architecture
 
 ## Quantum pseudo-telepathy
 
