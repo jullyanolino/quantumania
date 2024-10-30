@@ -10,3 +10,6 @@
 
 # quantumania
 Quantum Information Science and Engineering Adventures
+
+<h3 align="left" style="color:violet;">License </h3>
+This repository is licensed under the MIT License. Feel free to use, modify, and distribute, but remember: with great power comes great responsibility (and hopefully, fewer quantum bugs).
